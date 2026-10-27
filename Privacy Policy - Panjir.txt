@@ -1,0 +1,37 @@
+Privacy Policy – Panjir: Bengali Panjika
+Effective Date: 27 October 2026
+Panjir – Bengali Panjika, developed by Manik Roy, respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how information may be handled when you use the Panjir app.
+1. Information We Collect
+Panjir is designed to provide Bengali Panjika and Hindu calendar information. The app does not require you to provide personal information to use its basic calendar features.
+Depending on the features enabled in the app, limited technical information may be processed to maintain functionality, improve performance, or diagnose errors.
+2. Personal Information
+We do not intentionally collect personal information such as your name, phone number, address, or email address through the app's basic calendar features.
+If future features require personal information, this Privacy Policy will be updated accordingly.
+3. Location Information
+Panjir does not need your precise location for its basic calendar functionality. If a future feature requests location access to calculate location-specific sunrise, sunset, or auspicious timings, that use will be explained to you before the permission is requested.
+4. Data Storage and Security
+Some app preferences or settings may be stored locally on your device, depending on the app's implementation. We do not intentionally store personal information on our own servers through the basic calendar features.
+We take reasonable steps to protect information handled by the app. However, no method of electronic storage or transmission can guarantee absolute security.
+5. Third-Party Services
+Panjir may use third-party services in the future, such as analytics, crash reporting, advertising, or external calendar-data providers. These services may process certain technical information according to their own privacy policies.
+Any third-party services actually integrated into the app will be disclosed as appropriate.
+6. Data Sharing
+We do not sell or rent users' personal information. We do not intentionally share personal information collected through the basic calendar features with third parties.
+If third-party services are introduced, information will be handled according to this Privacy Policy and applicable requirements.
+7. Children's Privacy
+Panjir is intended to provide general Bengali calendar and religious information. We do not knowingly collect personal information from children through the app's basic calendar features.
+If we become aware that personal information has been collected improperly, appropriate steps will be taken to address it.
+8. External Links
+The app may contain links to external websites or services. We are not responsible for the privacy practices or content of third-party websites. Please review their privacy policies before sharing information.
+9. Your Privacy Rights
+Depending on applicable law and the app's features, you may have the right to request access to, correction of, or deletion of your personal information.
+For questions or privacy-related requests, contact the developer using the details below.
+10. Changes to This Privacy Policy
+We may update this Privacy Policy when the app's features, data practices, or applicable requirements change. The revised policy will be published with an updated effective date.
+11. Contact Us
+App Name: Panjir – Bengali Panjika
+Developer: Manik Roy
+Email: pixnum@gmail.com
+If you have questions or concerns about this Privacy Policy, please contact us using the email address provided above.
+© Manik Roy 2026. All Rights Reserved.
+
